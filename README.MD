@@ -1,2 +1,2 @@
-# HELLOOOOO GUYSSS
+# Intro
 Hi there, Damar here. I do **front-end** stuffs mostly with **React.js** and **Vue.js**, sometimes vanilla too. In my free time, I read and develop some **AI**, **machine learning** stuffs, especially in **NLP** field. I do modern **android** development too sometimes, doing them with **kotlin**, **MVVM**, **architecture components**, **jetpack**, etc. Did some **iOS** development also, but i'm very beginner. Sometimes develop **backend** for **chatbot** and **machine learning** deployment purpose, mostly in **python** or **node.js**. Sometimes do some **reverse engineering** for personal purpose too.
