@@ -5,7 +5,7 @@ Name's Damar, I professionally do front-end, do some backend/full-stack projects
 | Front-End         | Backend        | Android                           | iOS          | AI         |
 |-------------------|----------------|-----------------------------------|--------------|------------|
 | React.js, next.js | Express.js     | Kotlin, Java                      | swift        | Python     |
-| Vue.js, nuxt.js   | Go: echo, gorm | MVVM, offline first with livedata | React-native | C++        |
+| Vue.js, nuxt.js   | Go: echo, gorm | MVVM, offline first with livedata | VIPER        | C++        |
 | Redux             | PostgreSQL     | ROOM                              |              | Tensorflow |
 | Vanilla           | Flask          | SQLite                            |              | Keras      |
 |                   |                | Architecture components           |              |            |
