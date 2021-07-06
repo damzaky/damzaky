@@ -1,1 +1,1 @@
-People call me Damar, I do mostly front-end and machine learning-related stuffs.
+People call me Damar, I do mostly **front-end** and **machine learning**-related stuffs.
