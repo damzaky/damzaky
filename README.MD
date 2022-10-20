@@ -1,7 +1,14 @@
-People call me Damar, I do mostly **front-end** and **machine learning**-related stuffs. I'm kinda too normal for techie people, but too techie for normal people.
-
-Yes, I can center `div` without flex/grid. No, I've never had to invert a `binary tree` at my job. I write comments on codes whenever they're necessary
-
-other links:
-- https://stackoverflow.com/users/7552340/damzaky
-- https://damzaky.github.io/
+<table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+    <td>
+      People call me Damar, I do mostly <b>front-end</b> and <b>machine learning</b>-related stuffs. I'm kinda too normal for techie people, but too techie for normal people.<br><br> Yes, I can center <code>div</code> without flex/grid. No, I've never had to invert a <code>binary tree</code> at my job. I write comments on codes whenever they're necessary
+    </td>
+    <td>
+      other links:
+      <ul>
+      <li>https://stackoverflow.com/users/7552340/damzaky</li>
+      <li>https://damzaky.github.io/</li>
+      </ul>
+    </td>
+ </tr>
+</table>
