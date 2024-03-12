@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#" style="display: block">
-<img src="header.svg" width="800" height="280" alt="">
+<img src="header.svg" alt="">
 </a>
 </p>
 <table border="0" cellspacing="0" cellpadding="0">
