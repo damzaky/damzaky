@@ -7,8 +7,8 @@
 <p align="center">
      <img width="208" height="0">
      <a href="https://stackoverflow.com/users/7552340/damzaky" style="display: block"><img style="display: block" src="https://stackoverflow.com/users/flair/7552340.png" width="208" height="58"></a>
-    <div>https://damzaky.github.io</div>
-<img width="208" height="0">
+    <p>https://damzaky.github.io</p>
+    <img width="208" height="0">
 </p>
     </td>
  </tr>
