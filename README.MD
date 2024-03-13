@@ -1,9 +1,11 @@
 <p align="center">
 <a href="#" style="display: block">
-<img src="header.svg" alt="">
+<img src="title.svg" alt="">
+</a>
+<a href="#" style="display: block">
+<img src="tags.svg" alt="">
 </a>
 </p>
-<img src="description.svg" alt="">
 <table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td>
