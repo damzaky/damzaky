@@ -11,25 +11,25 @@
     }
 
     .eraser {
-      transform: translate(-10px, 8px) rotate(16deg);
+      transform: translate(-9px, 8px) rotate(16deg);
       -webkit-animation: erase 10s linear infinite;
       animation: erase 10s linear infinite;
     }
 
     .eraser2 {
-      transform: translate(-42px, -13px) rotate(202deg);
+      transform: translate(-126px, -29px) rotate(192deg);
       -webkit-animation: erase2 10s linear infinite;
       animation: erase2 10s linear infinite;
     }
 
     .eraser3 {
-      transform: translate(1px, -7px) rotate(6deg);
+      transform: translate(-14px, 1px) rotate(12deg);
       -webkit-animation: erase3 10s linear infinite;
       animation: erase3 10s linear infinite;
     }
 
     .eraser4 {
-      transform: translate(43px, -4px) rotate(194deg);
+      transform: translate(26px, -4px) rotate(189deg);
       -webkit-animation: erase4 10s linear infinite;
       animation: erase4 10s linear infinite;
     }
@@ -49,7 +49,7 @@
       }
 
       17% {
-        height: 115px;
+        height: 125px;
       }
 
       25% {
@@ -62,7 +62,7 @@
 
       100% {
         opacity: 0;
-        height: 115px;
+        height: 125px;
       }
     }
 
@@ -183,11 +183,11 @@
       }
 
       27% {
-        margin-left: -110px;
+        margin-left: -189px;
       }
 
       94% {
-        margin-left: -110px;
+        margin-left: -189px;
       }
 
       96% {
@@ -222,9 +222,9 @@
   <defs>
     <mask id="eraserid">
       <rect width="800" height="141" fill="white" />
-      <rect class="eraser" x="340" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
-      <rect class="eraser2" x="360" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
-      <rect class="eraser3" x="380" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
+      <rect class="eraser" x="280" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
+      <rect class="eraser2" x="320" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
+      <rect class="eraser3" x="360" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
       <rect class="eraser4" x="400" y="16" width="40" height="40" rx="15" fill="black" transform-origin="center" />
     </mask>
   </defs>
@@ -232,20 +232,16 @@
     <foreignObject width="100%" height="100%">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
-          @font-face {
-            font-family: font;
-            src: url(FjallaOne-Regular.ttf);
-          }
-
           .container {
             text-align: center;
             font-size: 700%;
-            font-family: font, sans-serif;
+            font-family: arial, sans-serif;
             font-style: italic;
+            font-weight: bold;
           }
         </style>
         <div class="container">
-          <span class="dam">DAM <span class="ar">AR</span>
+          <span class="dam">DAM<span class="ar">AR</span>
           </span>
           <span class="zaky">
             <span class="z">Z</span>AKY </span>
