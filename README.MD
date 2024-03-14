@@ -17,7 +17,6 @@
      <a href="https://stackoverflow.com/users/7552340/damzaky" style="display: block"><img style="display: block" src="https://stackoverflow.com/users/flair/7552340.png" width="208" height="58"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://stackoverflow.com/users/flair/7552340.png?theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://stackoverflow.com/users/flair/7552340.png">
   <img alt="damzaky" src="https://stackoverflow.com/users/flair/7552340.png">
 </picture>
 </a>
