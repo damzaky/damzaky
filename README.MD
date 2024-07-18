@@ -1,4 +1,4 @@
-**Character Specs:**
+**Mid diff:**
 ```diff
 +    +I am
 
